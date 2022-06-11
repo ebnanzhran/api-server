@@ -2,10 +2,14 @@
 Build a REST API using Express.
 
 ## Link for PR
-
+[Click Here](https://github.com/ebnanzhran/api-server/pull/1)
 
 ## Link for Heroku
+Please type /food or /clothe
 
+[Click Here](https://bnan-api-server.herokuapp.com/)
 
-## Link for Actions
+<hr>
 
+## UML Diagram
+![Uml Diagram](./um.png)
