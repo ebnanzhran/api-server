@@ -12,6 +12,7 @@ Please type /food or /clothe
 [Click Here](https://bnan-api-server.herokuapp.com/)
 
 <hr>
+
 ### To check please type /food or /clothe
 
 [Heroku](https://bnan-api-server.herokuapp.com/)
